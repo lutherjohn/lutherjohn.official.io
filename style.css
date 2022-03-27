@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    font-family: inter;
+}
+
+.card {
+    height: 664px;
+    width: 1385px;
+    margin: 35px;
+    padding: 25px; 
+}
+
+.lutherjohn-text {
+    font-size: 32px;
+    font-weight: bold;
+    text-justify: inter-word;
+    
+}
+
+.lutherjohn-text--developer {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+}
+
+.lutherjohn-text2 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.lutherjohn--tech-stack > img{
+    height: 168px;
+    width: 460px;
+}
+
+.lutherjohn > img {
+    height: 162px;
+    width: 156px;
+    position: absolute;
+    top: 567px;
+    left: 608px;
+}
